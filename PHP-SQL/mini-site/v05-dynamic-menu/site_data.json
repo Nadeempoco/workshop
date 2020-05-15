@@ -1,0 +1,28 @@
+{
+  "global_title": "The Heavy Metal Company",
+  "description": "How to use PHP to create a dynamic website",
+  "keywords": "php,dynamic site,powercoders",
+  "author": "Nadeem Poco",
+
+  "pages": {
+    "index": {
+      "title": "Where hardest stuff is possible",
+      "menu": "HOME"
+    },
+
+    "work": {
+      "title": "A selection of our latest projects",
+      "menu": "WORK"
+    },
+
+    "contact": {
+      "title": "Say hello",
+      "menu": "CONTACT"
+    },
+
+    "gallary": {
+      "title": "My Pictures",
+      "menu": "GALLARY"
+    }
+  }
+}
